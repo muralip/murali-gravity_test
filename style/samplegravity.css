@@ -1,0 +1,53 @@
+body{
+    background-color:white;
+    width: 1000px;
+    height: 600px;
+    top:50px;
+    left: 70px;
+    position: absolute;
+    /*    overflow: hidden;*/
+}
+#main_container {
+    position: absolute;
+    top:0px;
+    left: 0px;
+    width: 800px;
+    height: 500px;
+    overflow: hidden;
+    background-color: black;
+}
+div.bk1{
+    position: absolute;
+    top:0px;
+    background-color:red;
+    width:100px;
+    height:100px;
+    left:150px;
+}
+div.bk2{
+    position: absolute;
+    top:0px;
+    background-color:blue;
+    width:100px;
+    height:100px;
+    left:300px;
+}
+div.bk3{
+    position: absolute;
+    top:0px;
+    background-color:green;
+    width:100px;
+    height:100px;
+    left:450px;
+}
+div.bk4{
+    position: absolute;
+    top:0px;
+    background-color:yellow;
+    width:100px;
+    height:100px;
+    left:600px;
+}
+
+
+
